@@ -17,5 +17,5 @@ Matlab functions for loading Alex Fraser's fast ice dataset.
 If you use this dataset and these functions, please cite them as: 
 
 * Fraser, A.D. and Massom, R. (2020) Circum-Antarctic landfast sea ice extent, 2000-2018, Ver. 2.2, Australian Antarctic Data Centre - [doi:10.26179/5d267d1ceb60c](http://dx.doi.org/doi:10.26179/5d267d1ceb60c) 
-* Fraser, A. D., Massom, R. A., Ohshima, K. I., Willmes, S., Kappes, P. J., Cartwright, J., and Porter-Smith, R.: High-resolution mapping of circum-Antarctic landfast sea ice distribution, 2000–2018, Earth Syst. Sci. Data, 12, 2987–2999, [doi:10.5194/essd-12-2987-2020, 2020](https://doi.org/10.5194/essd-12-2987-2020, 2020). 
+* Fraser, A. D., Massom, R. A., Ohshima, K. I., Willmes, S., Kappes, P. J., Cartwright, J., and Porter-Smith, R.: High-resolution mapping of circum-Antarctic landfast sea ice distribution, 2000–2018, Earth Syst. Sci. Data, 12, 2987–2999, [doi:10.5194/essd-12-2987-2020](https://doi.org/10.5194/essd-12-2987-2020). 
 * Greene, C. A., Gwyther, D. E., & Blankenship, D. D. (2017). Antarctic Mapping Tools for Matlab. Computers & Geosciences, 104, 151–157. Elsevier BV. [doi:10.1016/j.cageo.2016.08.003](https://doi.org/10.1016/j.cageo.2016.08.003) 
