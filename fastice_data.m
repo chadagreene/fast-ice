@@ -4,11 +4,11 @@ function [fi,x,y,t] = fastice_data(year)
 % 
 %% Syntax 
 % 
-%  [fi,x,y,t] = fastice_data_autumn(year)
+%  [fi,x,y,t] = fastice_data(year)
 %
 %% Description 
 % 
-% [fi,x,y,t] = fastice_data_autumn(year) loads gridded fast ice data for
+% [fi,x,y,t] = fastice_data(year) loads gridded fast ice data for
 % any year from 2000 to 2018, inclusive. 
 % 
 %   0 = pack ice or ocean; 
